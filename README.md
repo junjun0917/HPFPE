@@ -1,7 +1,7 @@
 # HPFPE
 The resources of Fish behavior datasets.
 
-![image](https://github.com/junjun0917/HPFPE/blob/main/samplefish.png)
+![image](https://github.com/junjun0917/HPFPE/blob/main/samplefish.jpg)
 
 # Download
 The datasets can be downloaded here:
